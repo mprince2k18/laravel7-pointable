@@ -1,5 +1,5 @@
 {
-    "name": "mprince/laravel-pointable",
+    "name": "mprince/laravel7-pointable",
     "description": "Point system for Laravel 7",
     "keywords": ["points", "pointable", "laravel", "loyalty", "reward"],
     "license": "MIT",

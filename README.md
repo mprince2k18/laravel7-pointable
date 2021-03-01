@@ -1,11 +1,11 @@
-[![Latest Stable Version](https://poser.pugx.org/mprince/laravel-pointable/v/stable)](https://packagist.org/packages/mprince/laravel-pointable)
-[![Total Downloads](https://poser.pugx.org/mprince/laravel-pointable/downloads)](https://packagist.org/packages/mprince/laravel-pointable)
-[![Latest Unstable Version](https://poser.pugx.org/mprince/laravel-pointable/v/unstable)](https://packagist.org/packages/mprince/laravel-pointable) 
-[![License](https://poser.pugx.org/mprince/laravel-pointable/license)](https://packagist.org/packages/mprince/laravel-pointable)
+[![Latest Stable Version](https://poser.pugx.org/mprince/laravel7-pointable/v/stable)](https://packagist.org/packages/mprince/laravel7-pointable)
+[![Total Downloads](https://poser.pugx.org/mprince/laravel7-pointable/downloads)](https://packagist.org/packages/mprince/laravel7-pointable)
+[![Latest Unstable Version](https://poser.pugx.org/mprince/laravel7-pointable/v/unstable)](https://packagist.org/packages/mprince/laravel7-pointable) 
+[![License](https://poser.pugx.org/mprince/laravel7-pointable/license)](https://packagist.org/packages/mprince/laravel7-pointable)
 
 # Laravel Pointable
 
-Point Transaction system for Laravel 8.*
+Point Transaction system for Laravel 7.*
 
 Inspired from [Trexology](https://github.com/Trexology/laravel-pointable)
 
@@ -13,8 +13,16 @@ Inspired from [Trexology](https://github.com/Trexology/laravel-pointable)
 
 First, pull in the package through Composer.
 
+## For Laravel 8
+
 ```js
 composer require mprince/laravel-pointable
+```
+
+## For Laravel 7
+
+```js
+composer require mprince/laravel7-pointable
 ```
 
 And then include the service provider within `app/config/app.php`.

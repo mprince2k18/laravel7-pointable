@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ffe1ef4ec0559d74747011d18e206859",
+    "content-hash": "8fd044ea67e8bdd8f4f65e0d701c8c04",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -146,16 +146,16 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v7.29.0",
+            "version": "7.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "9de0da0f58c5d120f29711bf037a6d06ca4cee79"
+                "reference": "1c95b8f842308ff15a56d29d897d3bda29001f1c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/9de0da0f58c5d120f29711bf037a6d06ca4cee79",
-                "reference": "9de0da0f58c5d120f29711bf037a6d06ca4cee79",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/1c95b8f842308ff15a56d29d897d3bda29001f1c",
+                "reference": "1c95b8f842308ff15a56d29d897d3bda29001f1c",
                 "shasum": ""
             },
             "require": {
@@ -208,7 +208,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2020-10-27T19:11:02+00:00"
+            "time": "2020-12-22T16:12:23+00:00"
         },
         {
             "name": "nesbot/carbon",

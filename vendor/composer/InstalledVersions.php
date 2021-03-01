@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '6a0592adff133f3be80f741871d6126374e1d7c6',
+    'reference' => '7bd68efa5e2b009f13f01afd411a871cb95d83fc',
     'name' => 'mprince/laravel7-pointable',
   ),
   'versions' => 
@@ -44,12 +44,12 @@ private static $installed = array (
     ),
     'illuminate/support' => 
     array (
-      'pretty_version' => 'v7.29.0',
-      'version' => '7.29.0.0',
+      'pretty_version' => '7.x-dev',
+      'version' => '7.9999999.9999999.9999999-dev',
       'aliases' => 
       array (
       ),
-      'reference' => '9de0da0f58c5d120f29711bf037a6d06ca4cee79',
+      'reference' => '1c95b8f842308ff15a56d29d897d3bda29001f1c',
     ),
     'mprince/laravel7-pointable' => 
     array (
@@ -58,7 +58,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '6a0592adff133f3be80f741871d6126374e1d7c6',
+      'reference' => '7bd68efa5e2b009f13f01afd411a871cb95d83fc',
     ),
     'nesbot/carbon' => 
     array (

@@ -1,13 +1,13 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'mprince/laravel-pointable',
+    'reference' => '6a0592adff133f3be80f741871d6126374e1d7c6',
+    'name' => 'mprince/laravel7-pointable',
   ),
   'versions' => 
   array (
@@ -31,21 +31,21 @@
     ),
     'illuminate/support' => 
     array (
-      'pretty_version' => 'v7.30.4',
-      'version' => '7.30.4.0',
+      'pretty_version' => 'v7.29.0',
+      'version' => '7.29.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '1c95b8f842308ff15a56d29d897d3bda29001f1c',
+      'reference' => '9de0da0f58c5d120f29711bf037a6d06ca4cee79',
     ),
-    'mprince/laravel-pointable' => 
+    'mprince/laravel7-pointable' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '6a0592adff133f3be80f741871d6126374e1d7c6',
     ),
     'nesbot/carbon' => 
     array (

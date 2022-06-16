@@ -5,7 +5,7 @@
 
 # Laravel Pointable
 
-Point Transaction system for Laravel 7.*
+Point Transaction system for Laravel 7.*, 8.*, 9.*
 
 Inspired from [Trexology](https://github.com/Trexology/laravel-pointable)
 
